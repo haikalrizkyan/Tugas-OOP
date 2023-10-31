@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PerhitunganNilaiMahasiswa {
+public class Perhitungan_Nilai_Mahasiswa {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
